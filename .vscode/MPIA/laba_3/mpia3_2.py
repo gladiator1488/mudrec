@@ -37,7 +37,7 @@ def get_max_activities_greedy(processes):
 
 
 
-#sadasdsa
+#sad
 # Замер времени работы алгоритмов
 import random
 
