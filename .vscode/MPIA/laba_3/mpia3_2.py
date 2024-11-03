@@ -19,7 +19,7 @@ def is_compatible(subset):
             if subset[i][1] > subset[j][0]:
                 return False
     return True
-
+#fsdfsdfsdfsdfsd
 
 def get_max_activities_greedy(processes):
     sorted_processes = sorted(processes, key=lambda x: x[1])
