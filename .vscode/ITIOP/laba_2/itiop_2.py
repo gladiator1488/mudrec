@@ -46,7 +46,7 @@ def float_to_base(num, base):
     if num == 0:
       break
   return result
-
+#2
 # Пример использования
 decimal_number = 12.375
 binary_number = decimal_to_base(decimal_number, 2)
